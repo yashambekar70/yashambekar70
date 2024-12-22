@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashambekar70
+- 👋 Hi, I’m Yash Ambekar
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning full stack java
 - 💞️ I’m looking to collaborate on developing new projects
